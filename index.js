@@ -21,4 +21,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login('TOKEN_BURAYA');
+client.login('TOKEN_BURAYA')
